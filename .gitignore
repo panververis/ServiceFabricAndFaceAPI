@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/API/PackageRoot/Config/Settings.xml
+/API/PackageRoot/ServiceManifest.xml
+/API/Properties/launchSettings.json
+/API/appsettings.Development.json
+/API/appsettings.json
